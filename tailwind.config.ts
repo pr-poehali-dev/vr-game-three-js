@@ -61,7 +61,16 @@ export default {
 					'accent-foreground': 'hsl(var(--sidebar-accent-foreground))',
 					border: 'hsl(var(--sidebar-border))',
 					ring: 'hsl(var(--sidebar-ring))'
+				},
+				neon: {
+					cyan: '#0EA5E9',
+					purple: '#D946EF',
+					orange: '#F97316',
+					pink: '#EC4899'
 				}
+			},
+			fontFamily: {
+				orbitron: ['Orbitron', 'sans-serif']
 			},
 			borderRadius: {
 				lg: 'var(--radius)',
